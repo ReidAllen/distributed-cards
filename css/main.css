@@ -18,6 +18,7 @@ main ol {
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 1rem;
+  padding-line-start: 0px;
 }
 
 main li {
