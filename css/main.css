@@ -20,8 +20,6 @@ main ol {
   gap: 1rem;
   list-style-type: none;
   display: flex;
-  justify-content: flex-start;
-  flex-direction: column;
 }
 
 main li {
