@@ -19,7 +19,6 @@ main ol {
   grid-template-columns: 1fr 1fr;
   gap: 1rem;
   list-style-type: none;
-  display: flex;
 }
 
 main li {
