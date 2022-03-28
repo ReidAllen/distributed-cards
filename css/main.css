@@ -18,7 +18,7 @@ main ol {
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 1rem;
-  margin: 1.5rem 0;
+  margin: 0;
   padding: 0;
 }
 
@@ -35,6 +35,10 @@ main li {
 
 li p {
   margin: 0 0 auto;
+}
+
+main h1 {
+  margin: 0 0 1.5rem;
 }
 
 main h1,
