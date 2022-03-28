@@ -26,6 +26,9 @@ main li {
   border: 2px solid #623b0c;
   border-radius: 8px;
   padding: 1rem;
+  margin: 1.5rem;
+  display: flex;
+  flex-direction: column;
 }
 
 main h1,
@@ -35,9 +38,6 @@ main li h2 {
 }
 
 main a {
-  display: flex;
-  flex-direction: column;
-  justify-content: flex-start;
   text-decoration: none;
   color: #fff;
   background-color: #623b0c;
