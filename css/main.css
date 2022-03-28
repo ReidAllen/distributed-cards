@@ -37,7 +37,7 @@ li p {
 
 main h1,
 main li h2 {
-  font-family: denk one, sans-serif;
+  font-family: "denk one", sans-serif;
   color: #623b0c;
 }
 
@@ -47,6 +47,7 @@ main a {
   background-color: #623b0c;
   border-radius: 8px;
   padding: .5em .75em .6em;
+  margin: 1.5rem 0;
 }
 
 img {
