@@ -10,8 +10,8 @@ html {
 
 body {
   background-color: #f5f2f0;
-  padding: 1rem;
   margin: 0;
+  padding: 1rem;
 }
 
 main ol {
@@ -26,10 +26,10 @@ main li {
   background-color: #ede3db;
   border: 2px solid #623b0c;
   border-radius: 8px;
+  list-style-type: none;
   padding: 1rem;
   display: flex;
   flex-direction: column;
-  list-style-type: none;
   justify-content: flex-start;
 }
 
@@ -37,24 +37,24 @@ li p {
   margin: 0 0 auto;
 }
 
+main h1,
+main li h2 {
+  font-family: "Denk One", sans-serif;
+  color: #623b0c;
+  margin: 0;
+  padding: 0;
+}
+
 main h1 {
   margin: 0 0 1.5rem;
 }
 
-main h1,
-main li h2 {
-  padding: 0;
-  margin: 0;
-  font-family: "Denk One", sans-serif;
-  color: #623b0c;
-}
-
 main a {
-  text-decoration: none;
-  color: #fff;
   background-color: #623b0c;
-  border-radius: 8px;
+  color: #ede3db;
   padding: .5rem .75rem .6em;
+  border-radius: 8px;
+  text-decoration: none;
   margin: 1.5rem 0 0;
 }
 
