@@ -28,6 +28,11 @@ main li {
   padding: 1rem;
   display: flex;
   flex-direction: column;
+  justify-content: flex-start;
+}
+
+li p {
+  margin: 0 0 auto;
 }
 
 main h1,
