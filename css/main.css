@@ -33,6 +33,13 @@ main li h2 {
   color: #623b0c;
 }
 
+main a {
+  text-decoration: none;
+  color: #fff;
+  background-color: #623b0c;
+
+}
+
 img {
   width: 100%;
 }
