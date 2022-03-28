@@ -36,6 +36,8 @@ main li h2 {
 
 main a {
   display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
   text-decoration: none;
   color: #fff;
   background-color: #623b0c;
