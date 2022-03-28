@@ -18,7 +18,6 @@ main ol {
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 1rem;
-  padding-inline-start: 0px;
 }
 
 main li {
@@ -34,6 +33,7 @@ main li {
 
 li p {
   margin: 0 0 auto;
+  padding: 0;
 }
 
 main h1,
