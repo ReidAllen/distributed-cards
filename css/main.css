@@ -1,0 +1,23 @@
+html {
+  box-sizing: border-box;
+  font-family: Georgia, serif;
+  line-height: 1.5;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+body {
+  margin: 0;
+  padding: 1rem;
+}
+
+main ol {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+img {
+  width: 100%;
+}
