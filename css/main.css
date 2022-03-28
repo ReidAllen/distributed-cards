@@ -28,6 +28,9 @@ main h1,
 main li h2 {
   font-family: denk one, sans-serif;
   color: #623b0c;
+  background-color: #ede3db;
+  border: 2px solid #623b0c;
+  border-radius: 8px;
 }
 
 img {
