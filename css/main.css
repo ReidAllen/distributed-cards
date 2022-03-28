@@ -34,6 +34,7 @@ main li h2 {
 }
 
 main a {
+  display: flex;
   text-decoration: none;
   color: #fff;
   background-color: #623b0c;
